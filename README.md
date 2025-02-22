@@ -1,5 +1,5 @@
 # software-design-remake
-Group Members GROUP 14:
+Group Members GROUP 13:
 
 1.Glen Omondo - COM/B/01-00102/2023
 2.Ambrose Gedion - COM/B/01-00123/2023
